@@ -1,0 +1,6 @@
+
+x=int(input('sen_shoma : '))
+
+y=x*3.156*10**7
+
+print (y)
